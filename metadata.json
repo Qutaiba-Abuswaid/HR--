@@ -1,0 +1,6 @@
+{
+  "name": "مُخلّص HR — منصة المخالصات والإجازات والمتابعة",
+  "description": "منصة مستقلة لحساب المخالصات المالية وفق منصة قوى ونظام العمل السعودي والأردني والفلسطيني، مع حاسبة الإجازات الشهرية ومتابعة الموظفين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
